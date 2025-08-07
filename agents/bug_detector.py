@@ -12,7 +12,7 @@ You are a bug detector. Analyze the following Python code and identify the buggy
 - Bug description
 - Bug line number(s)
 - Why it's a bug
-
+if not a code mention its not a code.
 Code:
 {code}
 """
